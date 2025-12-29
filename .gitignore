@@ -1,0 +1,12 @@
+# --- Build Artifacts ---
+build/
+bin/
+obj/
+*.o
+*.out
+*.bin
+
+# --- OS Images (ISO) ---
+*.iso
+isodir/
+*.img
